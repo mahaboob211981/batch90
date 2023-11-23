@@ -1,0 +1,9 @@
+touch file1
+ls
+git status
+git add file1  (workspace to staging)
+git status
+git commit -m "label" file1  (staging to local)
+git status
+git log
+git show cid
