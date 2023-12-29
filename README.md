@@ -221,7 +221,7 @@ Enter text here...</textarea>
 <div class="footer">
   <div class="row"> 
   <div class="column1 navbar" style="background-color:#bbb;">
-   <a href="#" class="right">copyrights reserved@2021 myworld!</a>
+   <a href="#" class="right">copyrights reserved@2024 myworld!</a>
   <div class="column2 navbar" style="background-color:#bbb;">
    <a href="#" class="left">any queris:my world@gmail.com!</a>
   </div>
